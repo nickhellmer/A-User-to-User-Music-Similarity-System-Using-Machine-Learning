@@ -40,4 +40,4 @@ To match users with similar musical taste based solely on co-occurrence patterns
 
 ## Full Report
 See the final project summary and results here:  
-- [MusicSimilarity_FinalReport.pdf](reports/A_User_to_User_Music_Similarity_System_using_Machine_Learning.pdf)
+- [MusicSimilarity_FinalReport.pdf](A_User_to_User_Music_Similarity_System_using_Machine_Learning.pdf)
