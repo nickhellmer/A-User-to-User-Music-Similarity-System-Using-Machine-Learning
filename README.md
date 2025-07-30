@@ -15,12 +15,12 @@ To match users with similar musical taste based solely on co-occurrence patterns
 
 ## Repository Contents
 
-| File/Folder                                                                  | Description                                                                        |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| `/notebooks/psuedo_user_creation_10000_playlists.ipynb`                      | Creates synthetic user vectors from playlist co-occurrence data (10k user version) |
-| `/notebooks/User-to-user-similarity-output.ipynb`                            | Computes similarity scores using multiple metrics                                  |
-| `/notebooks/User-to-user-similarity-evaluation.ipynb`                        | Evaluates model performance with precision, recall@N, and F1 metrics               |
-| `/reports/A_User_to_User_Music_Similarity_System_using_Machine_Learning.pdf` | Final project report                                                               |
+| File/Folder                                                               | Description                                                                        |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| `notebooks/psuedo_user_creation_10000_playlists.ipynb`                   | Creates synthetic user vectors from playlist co-occurrence data (10k user version) |
+| `notebooks/User-to-user-similarity-output.ipynb`                         | Computes similarity scores using multiple metrics                                  |
+| `notebooks/User-to-user-similarity-evaluation.ipynb`                     | Evaluates model performance with precision, recall@N, and F1 metrics               |
+| `reports/A_User_to_User_Music_Similarity_System_using_Machine_Learning.pdf` | Final project report                                                           |
 
 ##  Notes
 - Due to file size limits, the 10k-user output dataset (~200MB) is not included. To reproduce it, run `psuedo_user_creation_10000_playlists.ipynb`.
